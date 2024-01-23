@@ -1,0 +1,19 @@
+---
+title: "EDA"
+author: "Claire Hsieh"
+date: "2024-01-12"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+
+```{r}
+
+```
+
+
+
+
+

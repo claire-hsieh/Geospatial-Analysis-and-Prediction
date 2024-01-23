@@ -8,7 +8,10 @@
 #---- Author's perl packages directory exported externally in environment
 #     variable "$FPATH" (technique removes need for hard-coded lib path names
 #     in perl script):
-use lib "$ENV{FPATH}";
+use lib "$ENV{/bunan/ddsc/Geospatial/data}";
+
+use lib qw(/bunan/ddsc/Geospatial/data);
+
 
 #---- Note:  Set the directory pathname that contains your perl packages
 #     (or where you placed the accompanying perl package "Cl_args.pm" OR
